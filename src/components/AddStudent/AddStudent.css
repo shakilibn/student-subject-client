@@ -1,0 +1,10 @@
+.outer-area {
+  background-color: rgb(213, 228, 208);
+}
+.interior {
+  background-color: #ffffff;
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 4px 4px 10px lightgrey;
+  margin-top: 10px;
+}
